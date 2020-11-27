@@ -1,2 +1,2 @@
 # lojaroupas
-e-commerce
+Aplicação de e-commerce desenvolvida com Java.
